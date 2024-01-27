@@ -1,0 +1,5 @@
+- comprehensive Myntra functional clone using HTML, CSS, and JavaScript, showcasing proficiency in front-end web development.
+- responsive design principles to ensure optimal user experience across various devices.
+- Meticulously replicated key features and the user interface of the original platform, demonstrating attention to detail.
+- Utilized JavaScript to incorporate dynamic elements, such as interactive features and product listings.
+- Strengthened coding skills and highlighted the ability to create visually appealing, user-centric web applications.
